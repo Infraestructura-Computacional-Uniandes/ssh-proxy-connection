@@ -5,7 +5,7 @@ Este repositorio incluye algunos scripts y tutoriales rapidos para facilitar la 
 ## Para conectarse desde Linux
 Clone este repositorio y siga los pasos indicados en la carpeta `Linux/`. El siguiente video explica paso a paso la conexión para esta plataforma.
 
-Video (Dale click al texto subrayado): [Video explicación Linux](https://www.youtube.com/watch?v=_Frcnkyldoc)
+Video (Dale click al texto subrayado): [Video explicación Linux](https://youtu.be/hc78ugg1k5E)
 
 ## Para conectarse desde Windows
 Descargue MobaXTerm e instalelo en su PC. Seleccione la opción gratuita
@@ -26,7 +26,7 @@ Posteriomente continue el tutorial de instalación presente en el documento prev
 # Uso de FileZilla
 Independientemente de la plataforma en la que se vayan a conectar, ingresen al siguiente enlace y observen el tutorial sobre el uso de FileZilla utilizando SFTP. En este mismo video se detallan algunas configuraciones a realizar a la maquina para el desarrollo del Taller 4.
 
-FileZilla (Dale click al texto subrayado): [Video explicativo FileZilla](https://www.youtube.com/watch?v=l0lW81_KgDA)
+FileZilla (Dale click al texto subrayado): [Video explicativo FileZilla](https://youtu.be/uqGJ6ymNQUY)
 
 Muchas gracias por su atención
 
