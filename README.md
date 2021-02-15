@@ -24,7 +24,7 @@ Homebrew (Dale click al texto subrayado): [Homebrew Website](https://brew.sh/ind
 Posteriomente continue el tutorial de instalación presente en el documento previsto por Admonsis, el cual está presente en el inicio de este repositorio
 
 # Uso de FileZilla
-Independientemente de la plataforma en la que se vayan a conectar, ingresen al siguiente enlace y observen el tutorial sobre el uso de FileZilla utilizando SFTP. En este mismo video se detallan algunas configuraciones a realizar a la maquina para el desarrollo del Taller 4.
+Independientemente de la plataforma en la que se vayan a conectar, ingresen al siguiente enlace y observen el tutorial sobre el uso de FileZilla utilizando SFTP. En este mismo video se detallan algunas configuraciones a realizar a la maquina para el desarrollo del Taller 5.
 
 FileZilla (Dale click al texto subrayado): [Video explicativo FileZilla](https://youtu.be/uqGJ6ymNQUY)
 
