@@ -7,6 +7,9 @@ cd /tmp
 # Actualizar paquetes
 sudo apt-get update
 
+# Instalar Screen
+sudo apt-get install -y screen
+
 # Instalar compiladores fundamentales (GCC, GCC++, entre otros), para ello utilizaremos build-essential
 sudo apt-get install -y build-essential
 
